@@ -1,0 +1,5 @@
+About
+-functions
+-element creation
+-event listeners
+-show/hide DOM elements

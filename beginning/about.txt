@@ -1,0 +1,16 @@
+About - entry stuff
+-var, let, const
+-PRIMITIVE
+-Type conversion
+-Simple math with numbers
+-Strings and concatenation
+-Template Literals
+-Arrays and Array Methods
+-Object Literals
+-Dates and Times
+-If statements & Comparison Operators
+-Switches
+-Function declarations & Expressions
+-General Loops
+-Window object
+-Global Scope

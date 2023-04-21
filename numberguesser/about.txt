@@ -1,0 +1,6 @@
+About
+-validation
+-local sotrage
+-event listeners
+-show/hide DOM elements
+-change DOM elements

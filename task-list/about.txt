@@ -1,0 +1,5 @@
+About
+-event listeners
+-adding/deleting DOM elements
+-event delegation
+-local storage

@@ -1,0 +1,4 @@
+About:
+-ES6 destructuring
+-array destructuring
+-object destrcturing

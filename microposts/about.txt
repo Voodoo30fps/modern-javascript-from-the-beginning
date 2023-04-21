@@ -1,0 +1,8 @@
+About:
+-modules
+-JSON Server
+-fetch
+-create, read, update, delete
+-ui state
+-npm
+-babel webpack
