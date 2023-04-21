@@ -1,4 +1,4 @@
-## Traversy Media - Modern JavaScript From the Begining
+## Traversy Media - Modern JavaScript From the Beginning
 
 #### Every project has its own separate folder
 
